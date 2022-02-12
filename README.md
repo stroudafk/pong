@@ -4,8 +4,9 @@ Tutorial for creating a pong game with pygames.
 
 ## Getting started:
 
-[Python3](#Python3)
-[Pygames] (#Pygames)
+[Python3](#python3)
+
+[Pygames](#pygames)
 
 
 
