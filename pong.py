@@ -47,7 +47,7 @@ def opponent_ai():
     if opponent.bottom > ball.y:
         opponent.bottom -= opponent_speed
     if opponent.top <= 0:
-        opponent.top <= 0
+        opponent.top = 0
     if opponent.bottom >= screen_height:
         opponent.bottom = screen_height
 
